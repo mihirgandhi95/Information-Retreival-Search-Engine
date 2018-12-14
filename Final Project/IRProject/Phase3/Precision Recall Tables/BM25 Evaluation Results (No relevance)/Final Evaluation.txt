@@ -1,0 +1,2 @@
+Mean Average Precision (MAP) = 0.443125
+Mean Reciprocal Rank (MRR) = 0.653113

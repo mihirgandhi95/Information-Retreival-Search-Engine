@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad37a141-5c28-4552-9ec9-c202e5b72573" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/IRProject$Evaluation_BM25_PRF_Relevance.coverage" NAME="Evaluation_BM25_PRF_Relevance Coverage Results" MODIFIED="1544341426280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3/Task_Data" />
+    <SUITE FILE_PATH="coverage/IRProject$Task1.coverage" NAME="Task1 Coverage Results" MODIFIED="1543606202160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IRProject$Task1_Indexer__1_.coverage" NAME="Task1_Indexer (1) Coverage Results" MODIFIED="1544238979658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task3_PartA_TF_IDF_stopwords.coverage" NAME="Task3_PartA_TF_IDF_stopwords Coverage Results" MODIFIED="1544409674043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task3_PartA_BM25_StopWords.coverage" NAME="Task3_PartA_BM25_StopWords Coverage Results" MODIFIED="1544410266691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$createIndexer.coverage" NAME="createIndexer Coverage Results" MODIFIED="1544154207327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IRProject$Task1_JMSmoothedQL.coverage" NAME="Task1_JMSmoothedQL Coverage Results" MODIFIED="1544396002709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Evaluation_BM25_Stopped.coverage" NAME="Evaluation_BM25_Stopped Coverage Results" MODIFIED="1544341607849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3/Task_Data" />
+    <SUITE FILE_PATH="coverage/IRProject$Task2_Creating_Inverted_list_For_Top5_Documents.coverage" NAME="Task2_Creating_Inverted_list_For_Top5_Documents Coverage Results" MODIFIED="1544397132613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task2_BM25_Relevance_PRF.coverage" NAME="Task2_BM25_Relevance_PRF Coverage Results" MODIFIED="1544402398915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task3_PartB_TF_IDF_Stemming.coverage" NAME="Task3_PartB_TF_IDF_Stemming Coverage Results" MODIFIED="1544409955640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task3_PartA_stoppingIndexer.coverage" NAME="Task3_PartA_stoppingIndexer Coverage Results" MODIFIED="1544409394061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task3_PartB_cacm_stem_extractor.coverage" NAME="Task3_PartB_cacm_stem_extractor Coverage Results" MODIFIED="1544409772941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task1_tf_idf.coverage" NAME="Task1_tf_idf Coverage Results" MODIFIED="1543617747224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IRProject$Task3_PartB_JMSmoothingQL_Stemming.coverage" NAME="Task3_PartB_JMSmoothingQL_Stemming Coverage Results" MODIFIED="1544409942330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$encoded_top100Docs_BM25.coverage" NAME="encoded_top100Docs_BM25 Coverage Results" MODIFIED="1544410733827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3" />
+    <SUITE FILE_PATH="coverage/IRProject$Evaluation.coverage" NAME="Evaluation Coverage Results" MODIFIED="1544411862787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3" />
+    <SUITE FILE_PATH="coverage/IRProject$snippetGeneration.coverage" NAME="snippetGeneration Coverage Results" MODIFIED="1544410282094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase2" />
+    <SUITE FILE_PATH="coverage/IRProject$Evaluation_Lucene.coverage" NAME="Evaluation_Lucene Coverage Results" MODIFIED="1544342041975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3/Task_Data" />
+    <SUITE FILE_PATH="coverage/IRProject$Evaluation_JMSmoothingQL.coverage" NAME="Evaluation_JMSmoothingQL Coverage Results" MODIFIED="1544341769211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3/Task_Data" />
+    <SUITE FILE_PATH="coverage/IRProject$encoded_top100Docs_BM25_Stopped.coverage" NAME="encoded_top100Docs_BM25_Stopped Coverage Results" MODIFIED="1544410835375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3" />
+    <SUITE FILE_PATH="coverage/IRProject$Task1_Tokenizer.coverage" NAME="Task1_Tokenizer Coverage Results" MODIFIED="1544395634570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task1_TFIDF.coverage" NAME="Task1_TFIDF Coverage Results" MODIFIED="1544396131532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$encoded_top100Docs_Lucene.coverage" NAME="encoded_top100Docs_Lucene Coverage Results" MODIFIED="1544410968347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3" />
+    <SUITE FILE_PATH="coverage/IRProject$Task1_QueryFileFiltering.coverage" NAME="Task1_QueryFileFiltering Coverage Results" MODIFIED="1544395867020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task1_BM25.coverage" NAME="Task1_BM25 Coverage Results" MODIFIED="1544395950035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task3_PartA_BM25_StoppingWords.coverage" NAME="Task3_PartA_BM25_StoppingWords Coverage Results" MODIFIED="1544240150681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task2_Relevance_Dictionary_BM25.coverage" NAME="Task2_Relevance_Dictionary_BM25 Coverage Results" MODIFIED="1544396809374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$encoded_top100Docs_JMSmoothingQL_Stopped.coverage" NAME="encoded_top100Docs_JMSmoothingQL_Stopped Coverage Results" MODIFIED="1544410936420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3" />
+    <SUITE FILE_PATH="coverage/IRProject$Task2_generate_top5_dictionary.coverage" NAME="Task2_generate_top5_dictionary Coverage Results" MODIFIED="1544396907946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Evaluation_BM25.coverage" NAME="Evaluation_BM25 Coverage Results" MODIFIED="1544341095104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3/Task_Data" />
+    <SUITE FILE_PATH="coverage/IRProject$test.coverage" NAME="test Coverage Results" MODIFIED="1544300786164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IRProject$graph_Plotting.coverage" NAME="graph_Plotting Coverage Results" MODIFIED="1544412267864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IRProject$Task3_PartA_tokenizer_stopping.coverage" NAME="Task3_PartA_tokenizer_stopping Coverage Results" MODIFIED="1544409296337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$tokenizer.coverage" NAME="tokenizer Coverage Results" MODIFIED="1544151297075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IRProject$Evaluation_TF_IDF_Stopped.coverage" NAME="Evaluation_TF_IDF_Stopped Coverage Results" MODIFIED="1544342272333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3/Task_Data" />
+    <SUITE FILE_PATH="coverage/IRProject$Task3_PartA_query_cleaning_stopwords.coverage" NAME="Task3_PartA_query_cleaning_stopwords Coverage Results" MODIFIED="1544409531436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task2_creating_inverted_list_for_top_5_documents.coverage" NAME="Task2_creating_inverted_list_for_top_5_documents Coverage Results" MODIFIED="1544393351027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$text_clearing.coverage" NAME="text_clearing Coverage Results" MODIFIED="1544385633272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IRProject$Task2_BM25.coverage" NAME="Task2_BM25 Coverage Results" MODIFIED="1544396816898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task2_generate_query_ID_top5_docs_dictionary.coverage" NAME="Task2_generate_query_ID_top5_docs_dictionary Coverage Results" MODIFIED="1544389970501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task1_QueryFileFiltering__1_.coverage" NAME="Task1_QueryFileFiltering (1) Coverage Results" MODIFIED="1544238987749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Evaluation_JMSmoothingQL_Stopped.coverage" NAME="Evaluation_JMSmoothingQL_Stopped Coverage Results" MODIFIED="1544341882307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3/Task_Data" />
+    <SUITE FILE_PATH="coverage/IRProject$Task2_BM25_Relevance_Calculation.coverage" NAME="Task2_BM25_Relevance_Calculation Coverage Results" MODIFIED="1544402441325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$encoded_top100Docs_TF_IDF.coverage" NAME="encoded_top100Docs_TF_IDF Coverage Results" MODIFIED="1544411455500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3" />
+    <SUITE FILE_PATH="coverage/IRProject$Task3_PartB_BM25_Stemming.coverage" NAME="Task3_PartB_BM25_Stemming Coverage Results" MODIFIED="1544409931788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Evaluation_TF_IDF.coverage" NAME="Evaluation_TF_IDF Coverage Results" MODIFIED="1544342144644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3/Task_Data" />
+    <SUITE FILE_PATH="coverage/IRProject$Task1_Indexer.coverage" NAME="Task1_Indexer Coverage Results" MODIFIED="1544395761961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task2_Create_Expanded_Queries_PRF.coverage" NAME="Task2_Create_Expanded_Queries_PRF Coverage Results" MODIFIED="1544399963673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task2_create_expanded_queries.coverage" NAME="Task2_create_expanded_queries Coverage Results" MODIFIED="1544395276928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$encoded_top100Docs_BM25_relevance.coverage" NAME="encoded_top100Docs_BM25_relevance Coverage Results" MODIFIED="1544410543015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3" />
+    <SUITE FILE_PATH="coverage/IRProject$Task3_PartB_stemmedIndexer.coverage" NAME="Task3_PartB_stemmedIndexer Coverage Results" MODIFIED="1544409795327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task3_PartA_JMSmoothingQL_StopWords.coverage" NAME="Task3_PartA_JMSmoothingQL_StopWords Coverage Results" MODIFIED="1544409657118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task1_Tokenizer__1_.coverage" NAME="Task1_Tokenizer (1) Coverage Results" MODIFIED="1544238965867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$Task1_JMSmoothedQL__1_.coverage" NAME="Task1_JMSmoothedQL (1) Coverage Results" MODIFIED="1544237237777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase1" />
+    <SUITE FILE_PATH="coverage/IRProject$encoded_top100Docs_JMSmoothingQL.coverage" NAME="encoded_top100Docs_JMSmoothingQL Coverage Results" MODIFIED="1544410889302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3" />
+    <SUITE FILE_PATH="coverage/IRProject$encoded_top100Docs_TF_IDF_Stopped.coverage" NAME="encoded_top100Docs_TF_IDF_Stopped Coverage Results" MODIFIED="1544411585247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Phase3" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1991937413">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="common_words" value="1" />
+          <entry key="html" value="5" />
+          <entry key="py" value="259" />
+          <entry key="txt" value="166" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="5" />
+          <entry key="PLAIN_TEXT" value="167" />
+          <entry key="Python" value="259" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="25" />
+          <entry key="py" value="7459" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Python" value="7459" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1567576134">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="pip" value="1" />
+          <entry key="py" value="127" />
+          <entry key="txt" value="57" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="PLAIN_TEXT" value="57" />
+          <entry key="Python" value="128" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="12" />
+          <entry key="py" value="4938" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="4938" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Phase3/encoded_top100Docs_JMSmoothingQL_Stopped.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Phase3/encoded_top100Docs_Lucene.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Phase3/encoded_top100Docs_TF_IDF.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Phase3/encoded_top100Docs_TF_IDF_Stopped.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/graph_Plotting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="448" column="39" lean-forward="true" selection-start-line="448" selection-start-column="39" selection-end-line="448" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Phase3/encoded_top100Docs_BM25_relevance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>3 Q0 CACM-1807</find>
+      <find>3 Q0 CACM-1613</find>
+      <find>CACM-1572</find>
+      <find>1 Q0 CACM-1572</find>
+      <find>docs_ID_len</find>
+      <find>qID_query</find>
+      <find>expanded_query</find>
+      <find>final_query</find>
+      <find>ids</find>
+      <find>qID</find>
+      <find>docID_doclen</find>
+      <find>query_dict</find>
+      <find>queryID_relevantDocs</find>
+      <find>queryID_noofrelevantdocs</find>
+      <find>final_score</find>
+      <find>avg_doc_len</find>
+      <find>i</find>
+      <find>final_score1</find>
+      <find>index_of_am</find>
+      <find>index_of_pm</find>
+      <find>d1</find>
+      <find>doc_name</find>
+      <find>docID_documentLen</find>
+      <find>docID_docName</find>
+      <find>parent_inverted_list</find>
+      <find>inv_list_unigram</find>
+      <find>common_words</find>
+      <find>content</find>
+      <find>newpath</find>
+      <find>write_to_file</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Phase1/Task2_Relevance_Dictionary_BM25.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task3_PartA_JMSmoothingQL_StopWords.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task3_PartA_TF_IDF_stopwords.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task3_PartB_stemmedIndexer.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task1_BM25.py" />
+        <option value="$PROJECT_DIR$/Phase3/Task_Data/Evaluation_BM25.py" />
+        <option value="$PROJECT_DIR$/Phase3/Task_Data/Evaluation_BM25_PRF_Relevance.py" />
+        <option value="$PROJECT_DIR$/Phase3/Task_Data/Evaluation_BM25_Stopped.py" />
+        <option value="$PROJECT_DIR$/Phase3/Task_Data/Evaluation_JMSmoothingQL.py" />
+        <option value="$PROJECT_DIR$/Phase3/Task_Data/Evaluation_JMSmoothingQL_Stopped.py" />
+        <option value="$PROJECT_DIR$/Phase3/Task_Data/Evaluation_Lucene.py" />
+        <option value="$PROJECT_DIR$/Phase3/Task_Data/Evaluation_TF_IDF.py" />
+        <option value="$PROJECT_DIR$/Phase3/Task_Data/Evaluation_TF_IDF_Stopped.py" />
+        <option value="$PROJECT_DIR$/Phase1/cacm.rel.txt" />
+        <option value="$PROJECT_DIR$/Phase1/Task1_JMSmoothedQL.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task1_JMSmoothedQL/JMSmoothing_top100_docs.txt" />
+        <option value="$PROJECT_DIR$/Phase1/Task1_Tokenizer.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task1_Indexer.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task1_QueryFileFiltering.py" />
+        <option value="$PROJECT_DIR$/text_clearing.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task1_Lucene.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task1_TFIDF.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task2_generate_query_ID_top5_docs_dictionary.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task2_creating_inverted_list_for_top_5_documents.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task2_create_expanded_queries.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task2_generate_top5_dictionary.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task2_Creating_Inverted_list_For_Top5_Documents.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task2_Create_Expanded_Queries_PRF.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task2_BM25.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task2_BM25_Relevance_PRF.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task2_BM25_Relevance_Calculation.py" />
+        <option value="$PROJECT_DIR$/graph_Plotting.py" />
+        <option value="$PROJECT_DIR$/Phase2/Generator_Snippets.py" />
+        <option value="$PROJECT_DIR$/Phase2/snippetGeneration.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task3_PartA_tokenizer_stopping.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task3_PartA_stoppingIndexer.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task3_PartA_query_cleaning_stopwords.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task3_PartB_JMSmoothingQL_Stemming.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task3_PartB_cacm_stem_extractor.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task3_PartB_TF_IDF_Stemming.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task3_PartB_BM25_Stemming.py" />
+        <option value="$PROJECT_DIR$/Phase1/Task3_PartA_BM25_StopWords.py" />
+        <option value="$PROJECT_DIR$/Phase3/encoded_top100Docs_BM25_relevance.py" />
+        <option value="$PROJECT_DIR$/Phase3/encoded_top100Docs_BM25.py" />
+        <option value="$PROJECT_DIR$/Phase3/encoded_top100Docs_BM25_Stopped.py" />
+        <option value="$PROJECT_DIR$/Phase3/encoded_top100Docs_JMSmoothingQL.py" />
+        <option value="$PROJECT_DIR$/Phase3/encoded_top100Docs_JMSmoothingQL_Stopped.py" />
+        <option value="$PROJECT_DIR$/Phase3/encoded_top100Docs_Lucene.py" />
+        <option value="$PROJECT_DIR$/Phase3/encoded_top100Docs_TF_IDF.py" />
+        <option value="$PROJECT_DIR$/Phase3/encoded_top100Docs_TF_IDF_Stopped.py" />
+        <option value="$PROJECT_DIR$/Phase3/Evaluation.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1438" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IRProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IRProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="settings&#9;ACTION&#9;Database.Settings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Phase1" />
+      <recent name="$PROJECT_DIR$/Phase3/Task_Data" />
+      <recent name="$PROJECT_DIR$/Phase3" />
+      <recent name="$PROJECT_DIR$/Phase1/Encoded Data Structures (PRF)" />
+      <recent name="$PROJECT_DIR$/Phase1/Task1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Phase3/Precision Recall Tables" />
+      <recent name="$PROJECT_DIR$/Phase3/Task_Data" />
+      <recent name="$PROJECT_DIR$/Phase3/Task_Data/Precision Recall Tables" />
+      <recent name="$PROJECT_DIR$/Phase3" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.graph_Plotting">
+    <configuration name="Evaluation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IRProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase3/Evaluation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="encoded_top100Docs_Lucene" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IRProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase3/encoded_top100Docs_Lucene.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="encoded_top100Docs_TF_IDF" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IRProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase3/encoded_top100Docs_TF_IDF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="encoded_top100Docs_TF_IDF_Stopped" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IRProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Phase3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Phase3/encoded_top100Docs_TF_IDF_Stopped.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graph_Plotting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IRProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graph_Plotting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.encoded_top100Docs_Lucene" />
+      <item itemvalue="Python.encoded_top100Docs_TF_IDF" />
+      <item itemvalue="Python.encoded_top100Docs_TF_IDF_Stopped" />
+      <item itemvalue="Python.Evaluation" />
+      <item itemvalue="Python.graph_Plotting" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.graph_Plotting" />
+        <item itemvalue="Python.Evaluation" />
+        <item itemvalue="Python.encoded_top100Docs_TF_IDF_Stopped" />
+        <item itemvalue="Python.encoded_top100Docs_TF_IDF" />
+        <item itemvalue="Python.encoded_top100Docs_Lucene" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad37a141-5c28-4552-9ec9-c202e5b72573" name="Default Changelist" comment="" />
+      <created>1543606133311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543606133311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1432" height="805" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21438849" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32819074" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.44740534" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39885223" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32961586" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="R Packages" order="0" />
+      <window_info anchor="right" id="R Graphics" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Phase1/Task2_generate_top5_dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Data_Encoded(Pseudo_Relevance)/expanded_encoded_queries.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task2_Creating_Inverted_list_For_Top5_Documents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" column="29" lean-forward="true" selection-start-line="91" selection-start-column="29" selection-end-line="91" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1544397125593" expanded="true" signature="439:440" ph="..." />
+            <marker date="1544397125593" expanded="true" signature="1895:2484" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Data_Encoded(Pseudo_Relevance)/encoded_expanded_queries.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task2_Create_Expanded_Queries_PRF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <marker date="1544397436893" expanded="true" signature="1022:1408" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2_BM25_PRF_trial.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task2_BM25_Relevance_PRF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="18" lean-forward="true" selection-end-line="120" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task2_BM25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="161" column="8" selection-start-line="161" selection-start-column="8" selection-end-line="163" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task1_Data/Encoded_Query_ID_BM25_relevance.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task2_BM25_Relevance_Calculation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="118" column="10" lean-forward="true" selection-start-line="118" selection-start-column="10" selection-end-line="118" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1544402919687" expanded="true" signature="3933:3966" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task2_Relevance_Dictionary_BM25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extracreditnew/venv/bin/pip">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase2/Generator_Snippets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Stopped_BM25_NoRelevance_Top100_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Cleaned_Queries_Stopped.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_PartA_tokenizer_stopping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Stopped_DocumentID_DocLen.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Stopped_Inverted_List.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_Data_Stopped/Encoded-Stopped_Inverted_List.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_Data_Stopped/Encoded-Stopped_DocumentID_DocLen.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_PartA_stoppingIndexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_Data_Stopped/Encoded-Cleaned_Queries_Stopped.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_PartA_query_cleaning_stopwords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_PartA_TF_IDF_stopwords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cacm_stem.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_PartA_JMSmoothingQL_StopWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Stopped_QLM_Top100_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_PartB_stemmedIndexer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="70" column="74" selection-start-line="70" selection-start-column="74" selection-end-line="70" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_PartB_cacm_stem_extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_PartB_BM25_Stemming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_PartB_JMSmoothingQL_Stemming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Stemmed_TF_IDF_Normalized_Top100_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_PartB_TF_IDF_Stemming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="49" column="40" lean-forward="true" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task3_PartA_BM25_StopWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase2/snippetGeneration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/Task_Data/Encoded-QueryID_Top100Docs_BM25_Relevance_PRF.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/encoded_top100Docs_BM25_Stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/encoded_top100Docs_JMSmoothingQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/encoded_top100Docs_JMSmoothingQL_Stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/encoded_top100Docs_Lucene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/encoded_top100Docs_BM25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/encoded_top100Docs_BM25_relevance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase1/Task1_TF_IDF/TF_IDF_top100_Pages.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/Task_Data/Encoded-QueryID_Top100Docs_Stopped_BM25_NoRelevance.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/Task_Data/Precision Recall Tables/Encoded-QueryID_Top100Docs_tf-idf_normalized.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/Task_Data/Encoded-QueryID_Top100Docs_tf-idf_normalized.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/encoded_top100Docs_TF_IDF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/encoded_top100Docs_TF_IDF_Stopped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/Precision Recall Tables/BM25 PRF Evaluation Results/Final Evaluation.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Phase3/Evaluation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph_Plotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="448" column="39" lean-forward="true" selection-start-line="448" selection-start-column="39" selection-end-line="448" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,117 @@
+The format of the file is:  TERM :  DOCUMENTS  DOCUMENT_FREQUENCY 
+1958 : ['CACM-0009', 'CACM-0008', 'CACM-0011', 'CACM-0005', 'CACM-0004', 'CACM-0010', 'CACM-0006', 'CACM-0012', 'CACM-0007', 'CACM-0003', 'CACM-0002', 'CACM-0001'] @@~ 12
+1978 : ['CACM-0009', 'CACM-0008', 'CACM-0011', 'CACM-0005', 'CACM-0004', 'CACM-0010', 'CACM-0006', 'CACM-0012', 'CACM-0007', 'CACM-0003', 'CACM-0002', 'CACM-0001'] @@~ 12
+2 : ['CACM-0011'] @@~ 1
+22 : ['CACM-0009', 'CACM-0008', 'CACM-0011', 'CACM-0005', 'CACM-0004', 'CACM-0010', 'CACM-0006', 'CACM-0012', 'CACM-0007', 'CACM-0003', 'CACM-0002', 'CACM-0001'] @@~ 12
+8:28 : ['CACM-0001'] @@~ 1
+8:29 : ['CACM-0002'] @@~ 1
+8:30 : ['CACM-0003'] @@~ 1
+8:32 : ['CACM-0004'] @@~ 1
+8:33 : ['CACM-0005', 'CACM-0006'] @@~ 2
+8:35 : ['CACM-0007'] @@~ 1
+8:36 : ['CACM-0008'] @@~ 1
+8:37 : ['CACM-0009'] @@~ 1
+8:39 : ['CACM-0010'] @@~ 1
+8:41 : ['CACM-0011'] @@~ 1
+8:56 : ['CACM-0012'] @@~ 1
+a : ['CACM-0011', 'CACM-0001'] @@~ 2
+algebraic : ['CACM-0001'] @@~ 1
+an : ['CACM-0009'] @@~ 1
+and : ['CACM-0008', 'CACM-0004', 'CACM-0010', 'CACM-0007'] @@~ 4
+approximations : ['CACM-0005'] @@~ 1
+by : ['CACM-0002'] @@~ 1
+ca580901 : ['CACM-0012'] @@~ 1
+ca580902 : ['CACM-0011'] @@~ 1
+ca580903 : ['CACM-0010'] @@~ 1
+ca581001 : ['CACM-0009'] @@~ 1
+ca581002 : ['CACM-0008'] @@~ 1
+ca581003 : ['CACM-0007'] @@~ 1
+ca581101 : ['CACM-0006'] @@~ 1
+ca581102 : ['CACM-0005'] @@~ 1
+ca581103 : ['CACM-0004'] @@~ 1
+ca581201 : ['CACM-0003'] @@~ 1
+ca581202 : ['CACM-0002'] @@~ 1
+ca581203 : ['CACM-0001'] @@~ 1
+cacm : ['CACM-0009', 'CACM-0008', 'CACM-0011', 'CACM-0005', 'CACM-0004', 'CACM-0010', 'CACM-0006', 'CACM-0012', 'CACM-0007', 'CACM-0003', 'CACM-0002', 'CACM-0001'] @@~ 12
+call : ['CACM-0012'] @@~ 1
+changing : ['CACM-0011'] @@~ 1
+communication : ['CACM-0011'] @@~ 1
+computer : ['CACM-0004', 'CACM-0010', 'CACM-0007'] @@~ 3
+computers : ['CACM-0006', 'CACM-0002'] @@~ 2
+conway : ['CACM-0009'] @@~ 1
+d : ['CACM-0008', 'CACM-0012', 'CACM-0003'] @@~ 3
+december : ['CACM-0003', 'CACM-0002', 'CACM-0001'] @@~ 3
+department : ['CACM-0003'] @@~ 1
+digital : ['CACM-0002'] @@~ 1
+e : ['CACM-0009', 'CACM-0006'] @@~ 2
+engineering : ['CACM-0004', 'CACM-0010', 'CACM-0007'] @@~ 3
+equivalence : ['CACM-0008'] @@~ 1
+error : ['CACM-0012'] @@~ 1
+estimation : ['CACM-0012'] @@~ 1
+extraction : ['CACM-0002'] @@~ 1
+f : ['CACM-0012'] @@~ 1
+for : ['CACM-0009', 'CACM-0002'] @@~ 2
+friedman : ['CACM-0008', 'CACM-0003'] @@~ 2
+g : ['CACM-0005'] @@~ 1
+glossary : ['CACM-0004', 'CACM-0010', 'CACM-0007'] @@~ 3
+h : ['CACM-0012'] @@~ 1
+i : ['CACM-0002'] @@~ 1
+in : ['CACM-0006', 'CACM-0012'] @@~ 2
+inspection : ['CACM-0006'] @@~ 1
+international : ['CACM-0001'] @@~ 1
+j : ['CACM-0011', 'CACM-0001'] @@~ 2
+jb : ['CACM-0009', 'CACM-0008', 'CACM-0011', 'CACM-0005', 'CACM-0004', 'CACM-0010', 'CACM-0006', 'CACM-0012', 'CACM-0007', 'CACM-0003', 'CACM-0002', 'CACM-0001'] @@~ 12
+k : ['CACM-0001'] @@~ 1
+kutta : ['CACM-0012'] @@~ 1
+language : ['CACM-0001'] @@~ 1
+m : ['CACM-0009', 'CACM-0008', 'CACM-0006', 'CACM-0003'] @@~ 4
+machines : ['CACM-0011'] @@~ 1
+march : ['CACM-0009', 'CACM-0008', 'CACM-0011', 'CACM-0005', 'CACM-0004', 'CACM-0010', 'CACM-0006', 'CACM-0012', 'CACM-0007', 'CACM-0003', 'CACM-0002', 'CACM-0001'] @@~ 12
+matrix : ['CACM-0003'] @@~ 1
+mock : ['CACM-0011'] @@~ 1
+muller : ['CACM-0006'] @@~ 1
+november : ['CACM-0005', 'CACM-0004', 'CACM-0006'] @@~ 3
+o : ['CACM-0011'] @@~ 1
+october : ['CACM-0009', 'CACM-0008', 'CACM-0007'] @@~ 3
+of : ['CACM-0008', 'CACM-0011', 'CACM-0004', 'CACM-0010', 'CACM-0006', 'CACM-0007', 'CACM-0002'] @@~ 7
+olsztyn : ['CACM-0011'] @@~ 1
+on : ['CACM-0008', 'CACM-0003'] @@~ 2
+part : ['CACM-0011'] @@~ 1
+perlis : ['CACM-0001'] @@~ 1
+pm : ['CACM-0009', 'CACM-0008', 'CACM-0011', 'CACM-0005', 'CACM-0004', 'CACM-0010', 'CACM-0006', 'CACM-0012', 'CACM-0007', 'CACM-0003', 'CACM-0002', 'CACM-0001'] @@~ 12
+preliminary : ['CACM-0001'] @@~ 1
+problem : ['CACM-0011'] @@~ 1
+procedures : ['CACM-0006', 'CACM-0012'] @@~ 2
+program : ['CACM-0008', 'CACM-0003'] @@~ 2
+programming : ['CACM-0011', 'CACM-0004', 'CACM-0010', 'CACM-0007'] @@~ 4
+proposal : ['CACM-0009'] @@~ 1
+proposed : ['CACM-0011'] @@~ 1
+r : ['CACM-0012'] @@~ 1
+reeves : ['CACM-0012'] @@~ 1
+repeated : ['CACM-0002'] @@~ 1
+report : ['CACM-0001'] @@~ 1
+root : ['CACM-0005'] @@~ 1
+roots : ['CACM-0002'] @@~ 1
+runge : ['CACM-0012'] @@~ 1
+samelson : ['CACM-0001'] @@~ 1
+schemes : ['CACM-0008', 'CACM-0003'] @@~ 2
+september : ['CACM-0011', 'CACM-0010', 'CACM-0012'] @@~ 3
+solution : ['CACM-0011'] @@~ 1
+square : ['CACM-0005'] @@~ 1
+steel : ['CACM-0011'] @@~ 1
+strong : ['CACM-0011'] @@~ 1
+subtractions : ['CACM-0002'] @@~ 1
+sugai : ['CACM-0002'] @@~ 1
+t : ['CACM-0011'] @@~ 1
+techniques : ['CACM-0003'] @@~ 1
+terminology : ['CACM-0004', 'CACM-0010', 'CACM-0007'] @@~ 3
+the : ['CACM-0008', 'CACM-0011', 'CACM-0006'] @@~ 3
+transformation : ['CACM-0008'] @@~ 1
+tritter : ['CACM-0011'] @@~ 1
+two : ['CACM-0005'] @@~ 1
+uncol : ['CACM-0009'] @@~ 1
+use : ['CACM-0006'] @@~ 1
+w : ['CACM-0005'] @@~ 1
+wadey : ['CACM-0005'] @@~ 1
+wegstein : ['CACM-0011'] @@~ 1
+with : ['CACM-0011'] @@~ 1
